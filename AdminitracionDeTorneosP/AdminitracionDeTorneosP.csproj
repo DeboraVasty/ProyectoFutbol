@@ -69,6 +69,7 @@
     <Compile Include="Database\Registro_AmonestacionDB.cs" />
     <Compile Include="Database\ReporteAlquilerArbitrosDB.cs" />
     <Compile Include="Database\reporteDisponibilidadDB.cs" />
+    <Compile Include="Database\ReporteListaJugadoresDB.cs" />
     <Compile Include="Database\reportesLourdes.cs" />
     <Compile Include="Database\REPORTE_EQUIPO_LOCAL_DB.cs" />
     <Compile Include="Database\Reporte_EstadisticasDelEquipoDB.cs" />
@@ -125,6 +126,7 @@
     <Compile Include="Model\reporteAlquilerArbitros.cs" />
     <Compile Include="Model\reporteDisponibilidad.cs" />
     <Compile Include="Model\reporteJuegosAfectadosPorCancha.cs" />
+    <Compile Include="Model\ReporteListadoJugadores.cs" />
     <Compile Include="Model\reportePlanillaArbitro.cs" />
     <Compile Include="Model\reporteUsoCanchasModel.cs" />
     <Compile Include="Model\REPORTE_LOCAL.cs" />
@@ -234,6 +236,12 @@
     </Compile>
     <Compile Include="View\ReporteAlquilerArbitros.Designer.cs">
       <DependentUpon>ReporteAlquilerArbitros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ReporteListadoJugadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ReporteListadoJugadores.Designer.cs">
+      <DependentUpon>ReporteListadoJugadores.cs</DependentUpon>
     </Compile>
     <Compile Include="View\viewReporteDisponibilidad.cs">
       <SubType>Form</SubType>
@@ -460,6 +468,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\ReporteAlquilerArbitros.resx">
       <DependentUpon>ReporteAlquilerArbitros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ReporteListadoJugadores.resx">
+      <DependentUpon>ReporteListadoJugadores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\viewReporteDisponibilidad.resx">
       <DependentUpon>viewReporteDisponibilidad.cs</DependentUpon>

@@ -280,3 +280,4 @@ C:\Users\devas\Downloads\AdminitracionDeTorneosP (1)\AdminitracionDeTorneosP\Adm
 C:\Users\devas\Downloads\AdminitracionDeTorneosP (1)\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.IngresosAlquilerCanchas.resources
 C:\Users\devas\Downloads\AdminitracionDeTorneosP (1)\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ReporteAlquilerArbitros.resources
 C:\Users\devas\Downloads\AdminitracionDeTorneosP (1)\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.viewReporteDisponibilidad.resources
+C:\Users\devas\Downloads\AdminitracionDeTorneosP (1)\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ReporteListadoJugadores.resources
