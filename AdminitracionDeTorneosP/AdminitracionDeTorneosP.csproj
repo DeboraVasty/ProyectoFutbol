@@ -229,6 +229,12 @@
     <Compile Include="View\IngresosAlquilerCanchas.Designer.cs">
       <DependentUpon>IngresosAlquilerCanchas.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\ListadoArbitros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ListadoArbitros.Designer.cs">
+      <DependentUpon>ListadoArbitros.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\ReporteAlquilerArbitros.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -448,6 +454,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\JornadasPartido.resx">
       <DependentUpon>JornadasPartido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ListadoArbitros.resx">
+      <DependentUpon>ListadoArbitros.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\MenuIncripcionEquipo.resx">
       <DependentUpon>MenuIncripcionEquipo.cs</DependentUpon>

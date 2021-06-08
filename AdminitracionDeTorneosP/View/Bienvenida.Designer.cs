@@ -370,6 +370,7 @@ namespace AdminitracionDeTorneosP.View
             this.button8.TabIndex = 44;
             this.button8.Text = "Reporte Erick";
             this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // Bienvenida
             // 

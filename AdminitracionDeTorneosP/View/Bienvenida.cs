@@ -124,5 +124,11 @@ namespace AdminitracionDeTorneosP.View
             viewReporteDisponibilidad abrirForm = new viewReporteDisponibilidad();
             abrirForm.ShowDialog();
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            ListadoArbitros abrirForm = new ListadoArbitros();
+            abrirForm.ShowDialog();
+        }
     }
 }
