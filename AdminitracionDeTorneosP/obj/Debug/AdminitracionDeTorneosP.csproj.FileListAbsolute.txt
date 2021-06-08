@@ -333,3 +333,4 @@ C:\Users\Erick Echeverría\Desktop\ProyectoFutbol\AdminitracionDeTorneosP\obj\De
 C:\Users\Erick Echeverría\Desktop\ProyectoFutbol\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.CoreCompileInputs.cache
 C:\Users\Erick Echeverría\Desktop\ProyectoFutbol\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.exe
 C:\Users\Erick Echeverría\Desktop\ProyectoFutbol\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\devas\Downloads\AdminitracionDeTorneosP (1)\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ListadoArbitros.resources
